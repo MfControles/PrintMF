@@ -36,7 +36,7 @@
   "homepage": "https://github.com/ionic-team/ionic-native#readme",
   "license": "MIT",
   "module": "index.js",
-  "name": "printmf/printer",
+  "name": "printmfprinter",
   "peerDependencies": {
     "@ionic-native/core": "^4.11.0",
     "@angular/core": "*",
