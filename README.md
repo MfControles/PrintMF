@@ -6,7 +6,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-printer
-$ npm install --save @ionic-native/printer
+$ npm install --save https://github.com/MfControles/PrintMF.git
 ```
 
 ## [Usage Documentation](https://ionicframework.com/docs/native/printer/)
